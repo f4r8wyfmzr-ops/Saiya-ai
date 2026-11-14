@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SIYA AI</string>
+    <string name="splash_tagline">Your Intelligent Voice Companion</string>
+    <string name="default_owner_name">Vishal Boss</string>
+    <string name="greeting_template">Hello %1$s! Siya is ready. Bataiye aaj kya karna hai?</string>
+    <string name="firebase_notice_banner">Sample AI mode active — Enable Firebase to connect live Gemini responses.</string>
+    <string name="sample_response_badge">Sample AI</string>
+    <string name="mic_active_label">Microphone Active • Listening…</string>
+    <string name="mic_tap_hint">Tap mic to speak or type below…</string>
+    <string name="mic_permission_rationale_title">Allow Microphone for Voice Chat</string>
+    <string name="mic_permission_rationale_body">SIYA AI uses your microphone only when you tap the mic button to listen to your voice commands. Nothing is ever recorded in the background.</string>
+    <string name="mic_permission_denied_notice">Microphone permission is needed for voice input. You can enable it in App Settings or continue using text chat.</string>
+    <string name="action_confirm_title">Confirm Action</string>
+    <string name="settings_title">Siya Settings</string>
+    <string name="cd_siya_avatar">Animated Siya AI assistant avatar</string>
+    <string name="cd_mic_button">Activate microphone for voice input</string>
+    <string name="cd_stop_mic_button">Stop listening</string>
+    <string name="cd_send_message">Send message</string>
+    <string name="cd_open_settings">Open settings</string>
+    <string name="cd_navigate_back">Navigate back</string>
+    <string name="cd_speak_message">Read message aloud</string>
+    <string name="cd_stop_speaking">Stop speaking</string>
+</resources>

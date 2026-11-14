@@ -1,0 +1,6 @@
+{
+  "name": "SIYA AI",
+  "description": "Friendly, caring Hindi, Hinglish, and English voice assistant powered by Gemini AI, SpeechRecognizer, and TextToSpeech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
